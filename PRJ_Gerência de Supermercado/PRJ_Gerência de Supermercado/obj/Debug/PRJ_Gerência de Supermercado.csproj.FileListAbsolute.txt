@@ -1,0 +1,18 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\bin\Debug\PRJ_Gerência de Supermercado.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\bin\Debug\PRJ_Gerência de Supermercado.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\bin\Debug\PRJ_Gerência de Supermercado.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.pdb
+G:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\bin\Debug\PRJ_Gerência de Supermercado.exe.config
+G:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.exe
+G:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.pdb
+G:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\bin\Debug\PRJ_Gerência de Supermercado.exe
+G:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\bin\Debug\PRJ_Gerência de Supermercado.pdb
+G:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.csprojResolveAssemblyReference.cache
+D:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\bin\Debug\PRJ_Gerência de Supermercado.exe.config
+D:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.exe
+D:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.pdb
+H:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\bin\Debug\PRJ_Gerência de Supermercado.exe.config
+H:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.exe
+H:\PRJ_Gerência de Supermercado\PRJ_Gerência de Supermercado\obj\Debug\PRJ_Gerência de Supermercado.pdb

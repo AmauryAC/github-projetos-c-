@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E23C65C2-EEEA-4C90-9B86-EA493F8CA711}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PRJ_Distancia_entre_Cidades</RootNamespace>
+    <AssemblyName>PRJ_Distancia entre Cidades</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aresta.cs" />
+    <Compile Include="frm_AtualizarA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AtualizarA.Designer.cs">
+      <DependentUpon>frm_AtualizarA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AtualizarV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AtualizarV.Designer.cs">
+      <DependentUpon>frm_AtualizarV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ExcluirA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ExcluirA.Designer.cs">
+      <DependentUpon>frm_ExcluirA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ExcluirV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ExcluirV.Designer.cs">
+      <DependentUpon>frm_ExcluirV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ExibirC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ExibirC.Designer.cs">
+      <DependentUpon>frm_ExibirC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ExibirG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ExibirG.Designer.cs">
+      <DependentUpon>frm_ExibirG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_InserirA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_InserirA.Designer.cs">
+      <DependentUpon>frm_InserirA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_InserirV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_InserirV.Designer.cs">
+      <DependentUpon>frm_InserirV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Principal.Designer.cs">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Entrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Entrada.Designer.cs">
+      <DependentUpon>frm_Entrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Sobre.Designer.cs">
+      <DependentUpon>frm_Sobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grafo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vertice.cs" />
+    <EmbeddedResource Include="frm_AtualizarA.resx">
+      <DependentUpon>frm_AtualizarA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AtualizarV.resx">
+      <DependentUpon>frm_AtualizarV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ExcluirA.resx">
+      <DependentUpon>frm_ExcluirA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ExcluirV.resx">
+      <DependentUpon>frm_ExcluirV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ExibirC.resx">
+      <DependentUpon>frm_ExibirC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ExibirG.resx">
+      <DependentUpon>frm_ExibirG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_InserirA.resx">
+      <DependentUpon>frm_InserirA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_InserirV.resx">
+      <DependentUpon>frm_InserirV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Principal.resx">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Entrada.resx">
+      <DependentUpon>frm_Entrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Sobre.resx">
+      <DependentUpon>frm_Sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

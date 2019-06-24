@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\bin\Debug\PRJ_Jogo_da_Memória.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\bin\Debug\PRJ_Jogo_da_Memória.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\bin\Debug\PRJ_Jogo_da_Memória.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\obj\Debug\PRJ_Jogo_da_Memória.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\obj\Debug\PRJ_Jogo_da_Memória.frm_JogoMemoria.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\obj\Debug\PRJ_Jogo_da_Memória.frm_Menu.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\obj\Debug\PRJ_Jogo_da_Memória.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\obj\Debug\PRJ_Jogo_da_Memória.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\obj\Debug\PRJ_Jogo_da_Memória.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\PRJ_Jogo_da_Memória\PRJ_Jogo_da_Memória\obj\Debug\PRJ_Jogo_da_Memória.pdb

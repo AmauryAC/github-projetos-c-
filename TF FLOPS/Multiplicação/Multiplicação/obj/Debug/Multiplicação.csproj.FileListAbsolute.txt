@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Multiplicação\Multiplicação\bin\Debug\Multiplicação.exe.config
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Multiplicação\Multiplicação\bin\Debug\Multiplicação.exe
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Multiplicação\Multiplicação\bin\Debug\Multiplicação.pdb
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Multiplicação\Multiplicação\obj\Debug\Multiplicação.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Multiplicação\Multiplicação\obj\Debug\Multiplicação.exe
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Multiplicação\Multiplicação\obj\Debug\Multiplicação.pdb

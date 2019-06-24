@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.frm_Calculadora.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb

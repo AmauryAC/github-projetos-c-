@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\bin\Debug\Enviar EMail.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\bin\Debug\Enviar EMail.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\bin\Debug\Enviar EMail.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\obj\Debug\Enviar EMail.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\obj\Debug\Enviar_EMail.frm_TelaEnvio.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\obj\Debug\Enviar_EMail.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\obj\Debug\Enviar EMail.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\obj\Debug\Enviar EMail.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Enviar EMail\Enviar EMail\obj\Debug\Enviar EMail.pdb

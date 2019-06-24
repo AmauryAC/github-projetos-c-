@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\TF Arquitetura\TF Arquitetura\bin\Debug\TF Arquitetura.exe.config
+c:\users\user\documents\visual studio 2013\Projects\TF Arquitetura\TF Arquitetura\bin\Debug\TF Arquitetura.exe
+c:\users\user\documents\visual studio 2013\Projects\TF Arquitetura\TF Arquitetura\bin\Debug\TF Arquitetura.pdb
+c:\users\user\documents\visual studio 2013\Projects\TF Arquitetura\TF Arquitetura\obj\Debug\TF Arquitetura.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\TF Arquitetura\TF Arquitetura\obj\Debug\TF Arquitetura.exe
+c:\users\user\documents\visual studio 2013\Projects\TF Arquitetura\TF Arquitetura\obj\Debug\TF Arquitetura.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TF FLOPS\TF Arquitetura\TF Arquitetura\bin\Debug\TF Arquitetura.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TF FLOPS\TF Arquitetura\TF Arquitetura\obj\Debug\TF Arquitetura.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TF FLOPS\TF Arquitetura\TF Arquitetura\obj\Debug\TF Arquitetura.pdb

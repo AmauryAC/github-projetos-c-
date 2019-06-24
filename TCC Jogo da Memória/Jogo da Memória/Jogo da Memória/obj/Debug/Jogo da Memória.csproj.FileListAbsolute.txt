@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.frm_JogoMemoria.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\bin\Debug\Jogo da Memoria 1.0.0.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\bin\Debug\Jogo da Memoria 1.0.0.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\bin\Debug\Jogo da Memoria 1.0.0.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo_da_Memoria_1._0._0.frm_Entrada.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo_da_Memoria_1._0._0.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo da Memoria 1.0.0.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo da Memoria 1.0.0.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo da Memoria 1.0.0.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo_da_Memoria_1._0._0.frm_Idade.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo_da_Memoria_1._0._0.frm_Niveis.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo_da_Memoria_1._0._0.frm_Jogo_da_Memoria.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memoria 1.0.0\Jogo da Memoria 1.0.0\obj\Debug\Jogo da Memoria 1.0.0.csprojResolveAssemblyReference.cache

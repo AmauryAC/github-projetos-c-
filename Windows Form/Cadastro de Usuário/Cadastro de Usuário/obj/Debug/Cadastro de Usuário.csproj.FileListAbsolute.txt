@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\bin\Debug\Cadastro de Usuário.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\bin\Debug\Cadastro de Usuário.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\bin\Debug\Cadastro de Usuário.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\Cadastro de Usuário.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\Cadastro_de_Usuário.frmCadUsuario.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\Cadastro_de_Usuário.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\Cadastro de Usuário.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\Cadastro de Usuário.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\Cadastro de Usuário.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\bin\Debug\DB_User.accdb
+C:\Users\amaur_5j86jzh\Desktop\Backup Amaury\Projetos\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\bin\Debug\Cadastro de Usuário.exe.config
+C:\Users\amaur_5j86jzh\Desktop\Backup Amaury\Projetos\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\Cadastro de Usuário.exe
+C:\Users\amaur_5j86jzh\Desktop\Backup Amaury\Projetos\Projects\Windows Form\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\Cadastro de Usuário.pdb

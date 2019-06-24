@@ -1,0 +1,40 @@
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.exe.config
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.exe
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.pdb
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.csprojResolveAssemblyReference.cache
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmModelagem.resources
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmPrincipal.resources
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmVariaveis.resources
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.Properties.Resources.resources
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.csproj.GenerateResource.Cache
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.exe
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.pdb
+C:\Users\amaur_5j86jzh\Documents\Visual Studio 2015\Projects\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmResultados.resources
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.exe.config
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.exe
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.pdb
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.exe
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.pdb
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.csprojResolveAssemblyReference.cache
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmModelagem.resources
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmPrincipal.resources
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmResultados.resources
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmVariaveis.resources
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.Properties.Resources.resources
+C:\Users\929040\Desktop\Algoritmo Simplex\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.csproj.GenerateResource.Cache
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.exe.config
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.exe
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.pdb
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.exe
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.pdb
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.csprojResolveAssemblyReference.cache
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmModelagem.resources
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmPrincipal.resources
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmResultados.resources
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmVariaveis.resources
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.Properties.Resources.resources
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.csproj.GenerateResource.Cache
+C:\Users\amaur_5j86jzh\Desktop\Trab. Prático Otimização\Algoritmo Simplex\Algoritmo Simplex\bin\Debug\Algoritmo Simplex.exe.config
+C:\Users\amaur_5j86jzh\Desktop\Trab. Prático Otimização\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.exe
+C:\Users\amaur_5j86jzh\Desktop\Trab. Prático Otimização\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo Simplex.pdb
+C:\Users\amaur_5j86jzh\Desktop\Algoritmo Simplex\Algoritmo Simplex\obj\Debug\Algoritmo_Simplex.frmSobre.resources

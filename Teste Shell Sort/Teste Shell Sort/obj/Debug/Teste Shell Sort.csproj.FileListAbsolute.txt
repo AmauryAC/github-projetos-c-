@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Teste Shell Sort\Teste Shell Sort\bin\Debug\Teste Shell Sort.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Teste Shell Sort\Teste Shell Sort\bin\Debug\Teste Shell Sort.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Teste Shell Sort\Teste Shell Sort\bin\Debug\Teste Shell Sort.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Teste Shell Sort\Teste Shell Sort\obj\Debug\Teste Shell Sort.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Teste Shell Sort\Teste Shell Sort\obj\Debug\Teste Shell Sort.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Teste Shell Sort\Teste Shell Sort\obj\Debug\Teste Shell Sort.pdb

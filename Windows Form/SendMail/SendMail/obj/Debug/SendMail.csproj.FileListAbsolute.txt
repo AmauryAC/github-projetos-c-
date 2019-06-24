@@ -1,0 +1,1 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Windows Form\SendMail\SendMail\bin\Debug\SendMail.exe.config

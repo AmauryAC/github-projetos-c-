@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\bin\Debug\Teste níveis.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\bin\Debug\Teste níveis.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\bin\Debug\Teste níveis.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\obj\Debug\Teste níveis.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\obj\Debug\Teste_níveis.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\obj\Debug\Teste_níveis.Form2.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\obj\Debug\Teste_níveis.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\obj\Debug\Teste níveis.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\obj\Debug\Teste níveis.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Teste níveis\Teste níveis\obj\Debug\Teste níveis.pdb

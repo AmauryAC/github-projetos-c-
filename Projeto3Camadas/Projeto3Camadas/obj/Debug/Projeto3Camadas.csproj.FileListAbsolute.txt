@@ -1,0 +1,11 @@
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.pdb
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csprojResolveAssemblyReference.cache
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.frmCadCliente.resources
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.Cache
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\MySql.Data.dll
+c:\users\amaur_5j86jzh\documents\visual studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\MySql.Data.xml

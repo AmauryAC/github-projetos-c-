@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Divisão\Divisão\bin\Debug\Divisão.exe.config
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Divisão\Divisão\bin\Debug\Divisão.exe
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Divisão\Divisão\bin\Debug\Divisão.pdb
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Divisão\Divisão\obj\Debug\Divisão.exe
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Divisão\Divisão\obj\Debug\Divisão.pdb

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Subtração\Subtração\bin\Debug\Subtração.exe.config
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Subtração\Subtração\bin\Debug\Subtração.exe
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Subtração\Subtração\bin\Debug\Subtração.pdb
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Subtração\Subtração\obj\Debug\Subtração.exe
+c:\users\user\documents\visual studio 2013\Projects\TF FLOPS\Subtração\Subtração\obj\Debug\Subtração.pdb

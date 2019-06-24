@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\bin\Debug\Jogo da Memória com Níveis.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\bin\Debug\Jogo da Memória com Níveis.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\bin\Debug\Jogo da Memória com Níveis.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo da Memória com Níveis.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo_da_Memória_com_Níveis.frm_Menu.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo_da_Memória_com_Níveis.frm_NFacil.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo_da_Memória_com_Níveis.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo da Memória com Níveis.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo da Memória com Níveis.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo da Memória com Níveis.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo_da_Memória_com_Níveis.frm_NMedio.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC Jogo da Memória\Jogo da Memória com Níveis\Jogo da Memória com Níveis\obj\Debug\Jogo_da_Memória_com_Níveis.frm_NDificil.resources
