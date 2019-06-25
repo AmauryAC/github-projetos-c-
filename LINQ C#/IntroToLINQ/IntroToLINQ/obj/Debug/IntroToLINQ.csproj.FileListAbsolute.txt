@@ -1,0 +1,6 @@
+E:\Documentos Acadêmicos\LINQ C#\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.exe.config
+E:\Documentos Acadêmicos\LINQ C#\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.exe
+E:\Documentos Acadêmicos\LINQ C#\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.pdb
+E:\Documentos Acadêmicos\LINQ C#\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.csprojResolveAssemblyReference.cache
+E:\Documentos Acadêmicos\LINQ C#\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.exe
+E:\Documentos Acadêmicos\LINQ C#\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.pdb
